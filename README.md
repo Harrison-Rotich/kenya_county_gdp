@@ -37,10 +37,10 @@ The project requires the following Python libraries:
 ## Project Structure
 
 ```
-kenya_county_gdp/
-├── kenya_gdp.py              # Main analysis script
-├── README.md                 # This file
-└── kenya_county_gdp.html     # Generated map output
+kenya_county_gdp
+1.kenya_gdp.py              # Main analysis script
+2.README.md                 # This file
+3.kenya_county_gdp.html     # Generated map output
 ```
 
 ## Data Source
